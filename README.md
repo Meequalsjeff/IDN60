@@ -1,8 +1,7 @@
 # IDN60 — IDB60 Homage Case (IDB60 Mount Compatible )
 
 <img width="1559" height="1218" alt="image" src="https://github.com/user-attachments/assets/f9a4913c-dc28-4d7f-a7f1-45844b91ef4c" />
-> My personal IDB 60 - PROTO
-
+> My personal IDB60 PROTO
 A 7° 60% keyboard case designed as an homage to the IDB60 and built around the **IDB60 mounting ecosystem** (plateless o-ring bottom mount).  
 **WKL only** for now.
 
