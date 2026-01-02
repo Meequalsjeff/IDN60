@@ -15,7 +15,7 @@ A 7° 60% keyboard case designed as an homage to the IDB60 and built around the 
 - **Mount:** **IDB60 mount** (plateless o-ring bottom mount)
 - **Weight:** Internal brass
 - **Alignment pillars:** 4
-- **Variant:** **WKL only**
+- **Variant:** **WKL only** as of now
 
 ---
 
