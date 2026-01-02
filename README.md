@@ -17,6 +17,10 @@ A 7° 60% keyboard case designed as an homage to the IDB60 and built around the 
 - **Alignment pillars:** 4
 - **Variant:** **WKL only** as of now
 
+## IDB MOUNT 
+
+    https://imgur.com/a/RQBupM5
+
 ## Proto images
 
   <img width="991" height="1321" alt="image" src="https://github.com/user-attachments/assets/bc2b65af-6380-4cff-8e60-0f66b1381717" />
