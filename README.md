@@ -82,7 +82,7 @@ This repo is organized into the following folders:
 ---
 
 ## Notes / Disclaimer
-This is an open design and provided as-is. Fitment can vary depending on manufacturing tolerances, PCB thickness, and build choices. Double-check dimensions before machining or ordering parts.
+This is an open design and provided as-is. Fitment can vary depending on manufacturing tolerances, PCB thickness, and build choices. Double-check dimensions before machining or ordering parts. Especially for 3DP.
 DM me on Discord @ meequalsjeff for help
 
 
