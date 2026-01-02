@@ -106,7 +106,7 @@ This repo is organized into the following folders:
 - **`IDN60 EXCHANGE - STEP FILES/`**  
   STEP exports for compatibility with most CAD software.
 
-- **`IDN60 FABRICATION - STL + TECHNICAL DRAWING/`**  
+- **`IDN60 STEL:FABRICATION - STL + TECHNICAL DRAWING/`**  
   Manufacturing-ready exports:
   - STL files for prints, mockups, and basic fit checks  
   - Technical drawings for machining / inspection
