@@ -87,5 +87,5 @@ DM me on Discord @ meequalsjeff for help
 
 
 ## CREDITs
-Thanks to PNGU for the design of the IDB60 that this is based on
+Thanks to PNGU for the design of the IDB60 that this is based on.  
 Thanks to 0xenra for countless hours of help
